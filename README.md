@@ -9,7 +9,7 @@ My main focus is delivering high-performance, responsive UIs and creating smooth
 ## 📱 Featured Projects
 
 ### 🎮 G-Zone (Social Media & Gaming)
-[![App Store](https://img.shields.io/badge/App_Store-Download-blue)](https://apps.apple.com/eg/app/g-zone/id67415170902)
+[![App Store](https://img.shields.io/badge/App_Store-Download-blue)](https://apps.apple.com/eg/app/g-zone/id6741517090)
 
 ---
 
