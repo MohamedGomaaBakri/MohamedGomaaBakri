@@ -37,9 +37,10 @@ My main focus is delivering high-performance, responsive UIs and creating smooth
 ---
 
 ## 💼 Work Experience
-- **Flutter Developer (Full Time)** @ ASCON (11/2025 - Present)  
+- **Flutter Developer (Full Time)** @ ASCON (11/2025 - Present)
+- **Flutter Developer (part Time)** @ ATHR (11/2025 - present) 
 - **Flutter Developer (Part Time)** @ EZDIHAR (06/2025 - 10/2025)  
-- **Flutter Developer (Full Time)** @ THR (09/2024 - Present)  
+- **Flutter Developer (Full Time)** @ ATHR (09/2024 - 11/2025)  
 
 ---
 
